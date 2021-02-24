@@ -1,55 +1,46 @@
 
 # Menjal
-
-Application for farms, where customer can buy directly from the farm and show a brief description of the history of the farm and its profitable location.
+Menjal is a website application for farms inside Saudi Arabia, where the customer can buy directly from any local farm that exports dates, grain products, vegetables, and fruits with having the ability to show a brief description of that farm and its profitable location.
+This website has been developed in partial fulfillment of the requirements for the third Project of **Software Engineering Immersive Course**, that provided by **_General Assembly Middle East_ & _Misk Academy_**.
  
-## Description
-Menjal is application that enables farmers to reach buyers. It has two types of user: 
-- Farm owner: The owner can sell his products and view a brief description about his farm.
-- customer :Can see products from all farms, buy and prefer products.
-
-### Technical Used
-Manjel is MERN stack application that utilize MongoDB, Express, React, and Nodejs.
-- MongoDB
-- Express
-- React
-  - Bootstrap for react
-- Nodejs
-  - Ajax (axios) for API
+## Technical Used
+Manjel is a MERN-stack application that utilizes MongoDB, Express, React, and Nodejs.
+* MongoDB
+* Express
+* React
+  * Bootstrap for react
+* Nodejs
+  * Ajax (axios) for API
 
 
-### Wireframes
+## Wireframe
 <img src="Images/1-Home-SignUp-LogIn.png" width="800" hight="800">
 <img src="Images/2-Farm-Owner.png" width="850" hight="850">
 <img src="Images/3-Customer.png" width="900" hight="900">
 
-### Data Model
+## Data Model
 <img src="Images/datamodel mengal.jpg" width="800" hight="800">
 
-### User Stories
-There are two types of user:
-1. Farm owner:
-- Farm owner able to add Products
-- Farm owner able to edit the Products
-- Farm owner able to view all Products
-- Farm owner able to view a single Product
-- Farm owner able to edit or delete Products
-2. Customer
-- Customer able to view all Products
-- Customer able to view a single Product
-- Customer able to look for a specific product
-- Customer able to add Products to cart 
-- Customer able to add Products to Favorite
+## Users Stories
+Menjal Website has two types of users:
+1. **_Farm Owner_:**
+* Able to add Products
+* Ale to edit the products
+* Able to view all products
+* Able to view a single product
+* Able to edit/delete the products
+2. **_Customer_:**
+* Able to view all products
+* Able to view a single product
+* Able to search about a specific product
+* Able to add products to cart (buy it)
+* Able to add products to Favorite-List
 
+## Website Live-Demo
+[https://menjal.herokuapp.com/]
 
-## Planning and Development Process
+## Developed By
+Njoud Haddad, Fidaa Alshaikh, Mariam Ghazwani, and Mashael Almutiri.
 
-1- Discuss ouer ideas with an instructor and get it approved.
-
-2- Draw  wireframes covering all views we  might need.
-
-3- Agree on ouer project data model (schemas and relations).
-
-4- Set up our team organization repo by the end of the day.
 
 

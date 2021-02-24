@@ -1,6 +1,7 @@
 
 # Menjal
 Menjal is a website application for farms inside Saudi Arabia, where the customer can buy directly from any local farm that exports dates, grain products, vegetables, and fruits with having the ability to show a brief description of that farm and its profitable location.
+
 This website has been developed in partial fulfillment of the requirements for the third Project of **Software Engineering Immersive Course**, that provided by **_General Assembly Middle East_ & _Misk Academy_**.
  
 ## Technical Used
